@@ -1,5 +1,5 @@
 var clientId = '613605597963-s97vime5ktrfsav7r2je4te26o6miaeu.apps.googleusercontent.com';
-var apiKey = 'AIzaSyCxMNvtEPcRs-1uSxnSLTxsJTlrbfXAI50';
+var apiKey = 'AIzaSyDbaopWhBFCkUtrIDXxUPksYIJEZcXVsZM';
 var scopes = 'https://www.googleapis.com/auth/analytics.readonly https://www.googleapis.com/auth/analytics.manage.users.readonly https://www.googleapis.com/auth/analytics.edit';
 
 function handleClientLoad() {
